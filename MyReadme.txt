@@ -1,8 +1,9 @@
 public class Welcome{
 
-public void hello(){
+public void hello(String msg){
 
-System.out.println("What Next");
+System.out.println(msg);
+
 
 }
 
